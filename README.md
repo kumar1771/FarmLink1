@@ -1,4 +1,4 @@
-# UrbanFleet 🌾
+# FarmLink 🌾
 
 A microservices-based platform that connects **Farmers** directly with **Buyers**. Farmers can list products and manage stock; buyers can browse, place orders, and track them. Built with Spring Boot 3, Spring Cloud, and Spring AI.
 
