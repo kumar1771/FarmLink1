@@ -1,0 +1,11 @@
+com\example\Farmer\Goods\Service\Service\ProductService.class
+com\example\Farmer\Goods\Service\FarmerGoodsServiceApplication.class
+com\example\Farmer\Goods\Service\Controller\ProductController.class
+com\example\Farmer\Goods\Service\Exception\InsufficientStockException.class
+com\example\Farmer\Goods\Service\Exception\UnauthorizedException.class
+com\example\Farmer\Goods\Service\Repository\ProductRepository.class
+com\example\Farmer\Goods\Service\model\Product.class
+com\example\Farmer\Goods\Service\Exception\ResourceNotFoundException.class
+com\example\Farmer\Goods\Service\Exception\GlobalExceptionHandler.class
+com\example\Farmer\Goods\Service\model\Product$ProductBuilder.class
+com\example\Farmer\Goods\Service\Dto\ProductRequest.class
