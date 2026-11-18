@@ -1,0 +1,17 @@
+com\example\Order\Service\Service\OrderService.class
+com\example\Order\Service\Model\Order$OrderBuilder.class
+com\example\Order\Service\Repository\OrderRepository.class
+com\example\Order\Service\Exception\InsufficientStockException.class
+com\example\Order\Service\Feign\ProductClient.class
+com\example\Order\Service\Exception\ResourceNotFoundException.class
+com\example\Order\Service\Event\OrderStatusUpdatedEvent.class
+com\example\Order\Service\Exception\InvalidStatusTransitionException.class
+com\example\Order\Service\Dto\ProductResponse.class
+com\example\Order\Service\Kafka\OrderKafkaProducer.class
+com\example\Order\Service\OrderServiceApplication.class
+com\example\Order\Service\Exception\GlobalExceptionHandler.class
+com\example\Order\Service\Model\Order.class
+com\example\Order\Service\Controller\OrderController.class
+com\example\Order\Service\Dto\OrderRequest.class
+com\example\Order\Service\Event\OrderPlacedEvent.class
+com\example\Order\Service\Exception\UnauthorizedException.class
